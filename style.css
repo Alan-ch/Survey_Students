@@ -1,0 +1,44 @@
+
+
+html{
+  background: #00bfff;
+}
+body{
+  background: white;
+  margin: 0 auto;
+  width:800px;
+}
+#mainContent  {
+
+  border: solid 1px black;
+}
+#mainContent header {
+  padding-left: 180px;
+  border: solid 1px black;
+}
+
+#mainContent header h1 {
+  font-size: 2em;
+}
+#mainContent header p {
+  font-size: 1.2em;
+  font-style:italic;
+}
+#hoursPracticeValue{
+  background: #00bfff;
+  text-align: center;
+}
+
+table tr.blue1 {
+  background: #00bfff;
+}
+table tr.blue2 {
+  background: rgba(0, 8, 255, 0.1);
+}
+#submit{
+  background: #00bfff;
+}
+#desiredCourse{
+  background: #00bfff;
+  font-style: bold;
+}
